@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
