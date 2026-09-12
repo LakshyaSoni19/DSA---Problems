@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3870-count-commas-in-range](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1729-find-followers-count](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
