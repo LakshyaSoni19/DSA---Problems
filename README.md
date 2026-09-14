@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1470-shuffle-the-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1929-concatenation-of-array) |
