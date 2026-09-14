@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1929-concatenation-of-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0027-remove-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
