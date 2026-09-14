@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
