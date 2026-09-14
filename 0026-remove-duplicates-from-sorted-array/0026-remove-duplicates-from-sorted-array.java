@@ -10,6 +10,6 @@ class Solution {
             else right++;
          }
 
-        return left +1 ;
+        return left +1  ;
     }
 }
