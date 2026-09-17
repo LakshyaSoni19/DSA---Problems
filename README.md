@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0485-max-consecutive-ones) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
