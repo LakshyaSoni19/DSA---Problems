@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0014-longest-common-prefix) |
+| [3498-reverse-degree-of-a-string](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
