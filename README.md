@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0595-big-countries) |
 | [1729-find-followers-count](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
