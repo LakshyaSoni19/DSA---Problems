@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0168-excel-sheet-column-title) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
