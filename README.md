@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0168-excel-sheet-column-title) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
