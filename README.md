@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0908-smallest-range-i) |
 | [1470-shuffle-the-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0908-smallest-range-i) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
