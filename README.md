@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/0595-big-countries) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1407-top-travellers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1407-top-travellers) |
