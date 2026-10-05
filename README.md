@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3436-find-valid-emails](https://github.com/LakshyaSoni19/DSA---Problems/tree/master/3436-find-valid-emails) |
 ## Sorting
 |  |
 | ------- |
